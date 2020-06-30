@@ -1,6 +1,6 @@
 # SQL Statistical Analysis
 
-SQL Code: [analysisSQL.sql](/SQL/analysisSQL.sql)
+SQL Code: [analysisSQL.sql](https://github.com/raven-rivas/BigData_ETL-on-Amazon-dataset/blob/master/SQL/analysis.sql)
 
 --------------------------
 
