@@ -42,7 +42,7 @@ Conclusion :[SQLAnalysisConclusion.md](/SQLAnalysisConclusion.md)
 
 Built advanced statistical classification and regression models for prediction and evaluation by pySpark and presented in Google Colab Notebook.
 
-Conclusion :[ML_AnalysisConclusion.md](/ML_AnalysisConclusion.md)
+Conclusion :[ML_AnalysisConclusion.md](https://github.com/raven-rivas/BigData_ETL-on-Amazon-dataset/blob/master/ML_AnalysisConclusion.MD)
 
 -------------------------------------------------------------------------
 
