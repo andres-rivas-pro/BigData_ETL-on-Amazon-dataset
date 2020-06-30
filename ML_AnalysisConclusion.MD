@@ -6,7 +6,7 @@ Performing advanced statistical classification and regression model for predicti
 
 - Github Link: [Amazon_Reviews_NLP_ML.ipynb](/Amazon_Reviews_NLP_ML.ipynb)
 
-- Google Colab Notebook link: <https://colab.research.google.com/drive/1kAFj2v4wxlFVrCksN4CiKrWHC4dQj8f9>
+- Google Colab Notebook link: <https://colab.research.google.com/drive/16ZZJpwfKQTWQ0VRyXvb5E-9AqnfvJb4W>
 
 
 The label of model is the numerical representations of vine (1) and non-vine (0) reviews. The features in model is the review_body column applied to Natrual Language Process (NLP) and predict whether a given review will be vine or non-vine. The prediction column will indicate with a 1.0 if the model thinks this review pertains of vine and 0.0 if it thinks it’s non-vine review. 
@@ -18,7 +18,7 @@ For the evaluate part, accuracy of model at predicting reviews was 0.959364.
 
 - Github Link: [Amazon_Reviews_Classification_Regression.ipynb](/Amazon_Reviews_Classification_Regression.ipynb)
 
-- Google Colab Notebook link: <https://colab.research.google.com/drive/1WlH3SN9kFHh4FVFPFuDHvTV4-XYz7BF7>
+- Google Colab Notebook link: <https://colab.research.google.com/drive/1WlH3SN9kFHh4FVFPFuDHvTV4-XYz7BF7#scrollTo=OCkIES3QYdYs>
 
 - **Naive Bayes Model Conclusion:**
 
