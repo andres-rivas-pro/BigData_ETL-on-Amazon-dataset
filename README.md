@@ -52,7 +52,7 @@ Built a NLP preprocessing pipeline included *StringIndexer, Tokenizer, StopWords
 
 - Github Link: [Amazon_Reviews_NLP_ML.ipynb](/Amazon_Reviews_NLP_ML.ipynb)
 
-- Google Colab Notebook link: <https://colab.research.google.com/drive/1kAFj2v4wxlFVrCksN4CiKrWHC4dQj8f9>
+- Google Colab Notebook link: <https://colab.research.google.com/drive/16ZZJpwfKQTWQ0VRyXvb5E-9AqnfvJb4W>
 
 
 
